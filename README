@@ -1,4 +1,6 @@
-Collaborative Deep Learning
+Collaborative Deep Learning (CDL)
+(Wang, H., Wang, N., & Yeung, D. Y. (2015, August). Collaborative deep learning for recommender systems. In Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 1235-1244). ACM.)
+
 Python (Tensorflow) Implementation
 
 Dataset : politic_old and politic_new (legislative roll-call dataset)
